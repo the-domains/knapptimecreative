@@ -1,6 +1,6 @@
 name: knapptimecreative
 favicon: null
-layout_spectrum: 0.30237
+layout_spectrum: 0.48758
 typography_spectrum: 0.28082
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6010377369821072
-  lightness: 0.5626675032544881
-  saturation: 0.7915083754342049
-  rhythmicContrast: 0.9702223604544997
+    - '#e22f39'
+    - '#fffeff'
+    - '#ff0000'
+    - '#ec6b69'
+    - '#ffdbdb'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
